@@ -1,4 +1,4 @@
-# [ARTICLE] A Novel Performance Indicator for Dynamic Optimization Based on Rating Systems
+# [ARTICLE] A Performance Indicator for Dynamic Optimization Based on Rating Systems
 
 This repository provides a reference implementation and experimental framework for evaluating dynamic optimization algorithms
 (DOAs) using an extension of the CRS4EAs (Chess Rating System for Evolutionary Algorithms) method. The proposed methodology
